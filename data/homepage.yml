@@ -1,0 +1,181 @@
+# homepage
+homepage:
+  head:
+    title: "Início | Raditian"
+# showcase
+showcase:
+  enable: true
+  title: "It's Britney bitch"
+  subtitle: "Cantora entre aspas"
+  description: "site teste"
+  image:
+    alt: "Britney"
+    x: "img/showcase/britney.jpg"
+    _2x: "img/showcase/britney.jpg"
+  imageMobile:
+    alt: "Britney"
+    x: "img/showcase/britney.jpg"
+
+  socialLinks:
+    - icon: "twitter"
+      URL: ""
+
+
+    - icon: "instagram"
+      URL: "https://www.facebook.com/carolayne.kelley"
+
+    - icon: "facebook"
+      URL: "https://www.instagram.com/carolgoncalves.pe/"
+
+
+# about
+about:
+  enable: true
+  title: "Quem sou eu?"
+  content: '<p class="lead">
+    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
+    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
+    good for all of you.
+    </p>
+    <p class="lead">
+    My area of focus lies in designing web and mobile products, user research as well as
+    leading of design & front-end teams. I enjoy designing and coding the UI as much as
+    talking with users to iterate and improve the experiences that reach business goals.
+    </p>'
+  image:
+    x: "img/showcase/britney.jpg"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# trajetória
+education:
+  enable: true
+  title: "Trajetória"
+  items:
+    - university: "VMA"
+      year: "2002-2003"
+      degree: "beijei madonna"
+    - university: "Disney"
+      year: "Anos 1990"
+
+# doacoes / trajetoria
+experience:
+  enable: true
+  title: "Doações"
+  description: "Não preciso"
+  button:
+    btnText: "Doações"
+    URL: "https://www.vakinha.com.br"
+
+
+  items:
+    - title: ""
+      company: "sou rica"
+      duration: ""
+
+# bandeiras
+client_and_work:
+  title: "Músicas"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/cidade_infra.png"
+        _2x: "img/clients/cidade_infra.png"
+      alt: "Cidade e Infraestrutura"
+      
+
+    - logo:
+        x: "img/clients/politics.png"
+        _2x: "img/clients/politics.png"
+      alt: "Inovação Política"
+
+    - logo:
+        x: "img/clients/economia.png"
+        _2x: "img/clients/economia.png"
+      alt: "Economia"
+
+    - logo:
+        x: "img/clients/educacao.png"
+        _2x: "img/clients/educacao.png"
+      alt: "Educação"
+
+    - logo:
+        x: "img/clients/mulher.png"
+        _2x: "img/clients/mulher.png"
+      alt: "Direitos das Mulheres"
+
+  works:
+    - title: "Gimme more"
+      description: "
+Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit, magna tincidunt. Maecenas aliquam maecenas ligula nostra, accumsan taciti. Sociis mauris in integer, a dolor netus non dui aliquet, sagittis felis sodales, dolor sociis mauris, vel eu libero cras. Faucibus at. Arcu habitasse elementum est, ipsum purus pede porttitor class, ut adipiscing, aliquet sed auctor, imperdiet arcu per diam dapibus libero duis. Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec.
+Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt. Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend. Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor nullam erat, malesuada est leo ac. Varius natoque turpis elementum est. Duis montes, tellus lobortis lacus amet arcu et. In vitae vel, wisi at, id praesent bibendum libero faucibus porta egestas, quisque praesent ipsum fermentum tempor. Curabitur auctor, erat mollis sed, turpis vivamus a dictumst congue magnis. Aliquam amet ullamcorper dignissim molestie, mollis. Tortor vitae tortor eros wisi facilisis.
+Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet. Morbi integer molestie, amet suspendisse morbi, amet maecenas, a maecenas mauris neque proin nisl mollis. Suscipit nec ligula ipsum orci nulla, in posuere ut quis ultrices, lectus primis vehicula velit hasellus lectus, vestibulum orci laoreet inceptos vitae, at consectetuer amet et consectetuer. Congue porta scelerisque praesent at, lacus vestibulum et at dignissim cras urna, ante convallis turpis duis lectus sed aliquet, at et ultricies. Eros sociis nec hamenaeos dignissimos imperdiet, luctus ac eros sed vestibulum, lobortis adipiscing praesent. Nec eros eu ridiculus libero felis.
+Donec arcu risus diam amet sit. Congue tortor risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse, eu wisi rhoncus nibh velit, posuere sem in a sit. Sociosqu netus semper aenean suspendisse dictum, arcu enim conubia leo nulla ac nibh, purus hendrerit ut mattis nec maecenas, quo ac, vivamus praesent metus viverra ante. Natoque sed sit hendrerit, dapibus velit molestiae leo a, ut lorem sit et lacus aliquam. Sodales nulla ante auctor excepturi wisi, dolor lacinia dignissim eros condimentum dis pellentesque, sodales lacus nunc, feugiat at. In orci ligula suscipit luctus, sed dolor eleifend aliquam dui, ut diam mauris, sollicitudin sed nisl lacus."
+      image:
+        x: "img/works/cidade-infra.jpg"
+        _2x: "img/works/cidade-infra.jpg"
+      is_even: true
+
+    - title: "Im a slave for you"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      image:
+        x: "img/works/inova.jpg"
+        _2x: "img/works/inova.jpg"
+      is_even: false
+
+    - title: "Circus"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+
+    - title: "Oops"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Apoiadores"
+  items:
+    - name: "Madonna"
+      position: "Rainha"
+      content: ""
+      image:
+        x: "img/testimonials/madonna.jpg"
+        _2x: "img/testimonials/madonna.jpg"
+
+
+#doacoes
+doacoes: 
+  enable: true
+  title: "Doações"
+  description: "voce pode doar aqui"
+
+# contact
+contact:
+  enable: true
+  title: "Contato"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Nome"
+    email: "Seu email"
+    message: "Digite sua mensagem"
+  phone:
+    title: "Telefone"
+    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: ''
+  address:
+    title: "Endereço"
+    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Enviar mensagem"
